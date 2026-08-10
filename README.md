@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Hiaa1+%F0%9F%91%8B;Robotics+Researcher+%40+ShanghaiTech+%F0%9F%9A%80;Mobile+Autonomous+Robotics+%F0%9F%A4%96;MARS+Lab+%C2%B7+STAR+Center+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Yuxuan+Feng+%F0%9F%91%8B;Robotics+Researcher+%40+ShanghaiTech+%F0%9F%9A%80;MARS+Lab+%C2%B7+STAR+Center+%F0%9F%A4%96" alt="Typing SVG" />
 
 <p>
   🎓 <strong>Master's Student</strong> at <a href="https://robotics.shanghaitech.edu.cn"><strong>MARS Lab</strong></a>, ShanghaiTech University<br/>
