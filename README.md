@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/Hiaa1/Hiaa1/main/typing.svg" alt="Typing SVG" />
 
 <p>
-  🎓 <strong>Master's Student</strong> at <a href="https://robotics.shanghaitech.edu.cn"><strong>MARS Lab</strong></a>, ShanghaiTech University<br/>
-  🧭 Advised by <a href="https://robotics.shanghaitech.edu.cn/people/soeren"><strong>Prof. Sören Schwertfeger</strong></a><br/>
-  🛠️ Mobile Autonomous Robotic Systems — intelligent algorithms, software &amp; hardware<br/>
-  🌱 Part of the <a href="https://star-center.shanghaitech.edu.cn/"><strong>STAR Center</strong></a> @ ShanghaiTech
+  🎓 <strong>Master's Student</strong> at the <a href="https://robotics.shanghaitech.edu.cn"><strong>MARS Lab</strong></a>, ShanghaiTech University<br/>
+  🔬 Research focus: mobile robotics, autonomous navigation, and intelligent robotic systems<br/>
+  🧑‍🏫 Advised by <a href="https://robotics.shanghaitech.edu.cn/people/soeren"><strong>Prof. Sören Schwertfeger</strong></a><br/>
+  🌐 Member of the <a href="https://star-center.shanghaitech.edu.cn/"><strong>ShanghaiTech Automation and Robotics Center (STAR Center)</strong></a>
 </p>
 
 <p>
