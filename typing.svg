@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="64" viewBox="0 0 760 64" role="img" aria-label="Animated profile introduction">
+  <title>Animated profile introduction</title>
+  <defs>
+    <clipPath id="reveal-1" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="760" height="64">
+        <animate attributeName="width" dur="12s" begin="0s" repeatCount="indefinite" values="0;760;760;0;0" keyTimes="0;0.05;0.25;0.32;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="reveal-2" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="760" height="64">
+        <animate attributeName="width" dur="12s" begin="4s" repeatCount="indefinite" values="0;760;760;0;0" keyTimes="0;0.05;0.25;0.32;1" />
+      </rect>
+    </clipPath>
+    <clipPath id="reveal-3" clipPathUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="760" height="64">
+        <animate attributeName="width" dur="12s" begin="8s" repeatCount="indefinite" values="0;760;760;0;0" keyTimes="0;0.05;0.25;0.32;1" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <text x="380" y="36" text-anchor="middle" fill="#FF4D6D" opacity="1" font-family="JetBrains Mono, Noto Color Emoji, monospace" font-size="28" font-weight="600" clip-path="url(#reveal-1)">
+    Hi there, I'm Yuxuan Feng 👋
+    <animate attributeName="opacity" dur="12s" begin="0s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.05;0.25;0.32;1" />
+  </text>
+  <text x="380" y="36" text-anchor="middle" fill="#00D9FF" opacity="0" font-family="JetBrains Mono, Noto Color Emoji, monospace" font-size="28" font-weight="600" clip-path="url(#reveal-2)">
+    Robotics Researcher @ ShanghaiTech 🚀
+    <animate attributeName="opacity" dur="12s" begin="4s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.05;0.25;0.32;1" />
+  </text>
+  <text x="380" y="36" text-anchor="middle" fill="#FFB000" opacity="0" font-family="JetBrains Mono, Noto Color Emoji, monospace" font-size="28" font-weight="600" clip-path="url(#reveal-3)">
+    MARS Lab · STAR Center 🤖
+    <animate attributeName="opacity" dur="12s" begin="8s" repeatCount="indefinite" values="0;1;1;0;0" keyTimes="0;0.05;0.25;0.32;1" />
+  </text>
+</svg>
