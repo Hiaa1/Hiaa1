@@ -6,7 +6,7 @@
   🎓 <strong>Master's Student</strong> at <a href="https://robotics.shanghaitech.edu.cn"><strong>MARS Lab</strong></a>, ShanghaiTech University<br/>
   🧭 Advised by <a href="https://robotics.shanghaitech.edu.cn/people/soeren"><strong>Prof. Sören Schwertfeger</strong></a><br/>
   🛠️ Mobile Autonomous Robotic Systems — intelligent algorithms, software &amp; hardware<br/>
-  🌱 Part of the <a href="https://star-center.shanghaitech.edu.cn"><strong>STAR Center</strong></a> @ ShanghaiTech
+  🌱 Part of the <a href="https://star-center.shanghaitech.edu.cn/"><strong>STAR Center</strong></a> @ ShanghaiTech
 </p>
 
 <p>
@@ -14,7 +14,7 @@
   &nbsp;·&nbsp;
   <a href="https://robotics.shanghaitech.edu.cn/people/soeren">Advisor</a>
   &nbsp;·&nbsp;
-  <a href="https://star-center.shanghaitech.edu.cn">STAR Center</a>
+  <a href="https://star-center.shanghaitech.edu.cn/">STAR Center</a>
 </p>
 
 </div>
