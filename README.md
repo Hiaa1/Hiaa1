@@ -4,7 +4,7 @@
 
 <p>
   🎓 <strong>Master's Student</strong> at the <a href="https://robotics.shanghaitech.edu.cn"><strong>MARS Lab</strong></a>, ShanghaiTech University<br/>
-  🔬 Research interests: robot navigation, intelligent robotic agents, natural language processing (NLP), and their intersection<br/>
+  🔬 Research interests: robot navigation, intelligent robotic agents, NLP, and their intersection<br/>
   🧑‍🏫 Advised by <a href="https://robotics.shanghaitech.edu.cn/people/soeren"><strong>Prof. Sören Schwertfeger</strong></a><br/>
   🌐 Member of the <a href="https://star-center.shanghaitech.edu.cn/"><strong>ShanghaiTech Automation and Robotics Center (STAR Center)</strong></a>
 </p>
